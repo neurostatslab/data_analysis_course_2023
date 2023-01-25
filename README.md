@@ -1,5 +1,8 @@
-# data_analysis_course_2023
-NEURL-GA 3042
+## NEURL-GA 3042: Topics In Neuroscience (Neural Statistics), Spring 2023
+
+Research into the neural basis of cognition, perception, and behavior is increasingly predicated on complex data modeling pipelines. Interpreting and critiquing data analyses within recent publications is challenging, even for those with some training in “the fundamentals” of mathematical and computational analysis. This course combines instructor-led lectures and student-led paper discussions to introduce and then apply advanced mathematical concepts to understand complex neural and behavioral data.
+
+***Class Meets Wednesdays and Thursdays, 1:30-3pm, Meyer 1010***
 
 ### Links:
 
